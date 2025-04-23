@@ -36,7 +36,7 @@
     </div>
     <div class="thumbnail">
       <h1 class="stats">Ai Art&nbsp;</h1>
-<img src="../Desktop/Screenshot 2025-04-22 204114.png" width="608" height="448" alt=""/>
+<img src="Screenshot 2025-04-22 204114.png" width="608" height="448" alt=""/>
       <p>&nbsp; </p>
       <p>Ai work done by Firefly Ai. Told them to make leprchons next to a pot of gold.&nbsp;</p>
     </div>
